@@ -39,8 +39,9 @@ built in the open, free to use, and backed by the same team.
 - **Hosted & supported** — prefer not to run it yourself? We'll host,
   set up and support it
 - **Commercial licences** — for organisations that need other terms
-- **Built for here** — TTD, VAT, WhatsApp-first and low-cost hosting are
-  defaults, not afterthoughts
+- **Built for small business** — local currencies and taxes,
+  WhatsApp-friendly workflows and low-cost hosting are defaults, not
+  afterthoughts
 
 [See the projects ↓](#-brightforge-labs-projects)
 
@@ -76,7 +77,6 @@ Your security and privacy come first, so we never name our clients.
 🌐 [brightforgett.com](https://brightforgett.com) &nbsp;·&nbsp;
 ✉️ [info@brightforgett.com](mailto:info@brightforgett.com) &nbsp;·&nbsp;
 📞 [+1 (868) 739-1493](tel:+18687391493) &nbsp;·&nbsp;
-💬 [WhatsApp](https://wa.me/18687391493) &nbsp;·&nbsp;
-📍 Trinidad and Tobago
+💬 [WhatsApp](https://wa.me/18687391493)
 
 <sub>BrightForge Technologies Limited — <i>Shaping Innovation, Forging the Future.</i></sub>

@@ -91,7 +91,7 @@ d.text((x0, 122 * S), "Technology built side by side\nwith the people who run it
        font=font(SORA, 34 * S, 700), fill=CREAM, spacing=8 * S)
 d.text((x0, 228 * S), "Custom software  ·  Consulting  ·  BrightForge Labs",
        font=font(MANROPE, 20 * S, 600), fill=ORANGE_LIFT)
-d.text((x0, 270 * S), "Business systems, automation and AI for organisations\nthat need them to work — from Trinidad and Tobago.",
+d.text((x0, 270 * S), "Business systems, automation and AI for organisations\nthat need them to work.",
        font=font(MANROPE, 17 * S, 500), fill=GREY, spacing=6 * S)
 img = img.resize((W, H), Image.LANCZOS)
 ImageDraw.Draw(img).text((640, 352), "brightforgett.com", font=font(MANROPE, 15, 600), fill=MUTED)
