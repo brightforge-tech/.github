@@ -55,7 +55,7 @@ built in the open, free to use, and backed by the same team.
 |:-:|---|---|---|
 | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/exa-logo-dark.png"><img src="assets/exa-logo.png" width="48" alt="Exa"></picture> | **[Exa the Executive Assistant](https://github.com/brightforge-tech/exa)** | An AI executive assistant that lives on your Android phone — messages, email, calendar, tasks and a daily briefing, with every action approved and logged. Works with cloud, local or on-device AI. | ![alpha](https://img.shields.io/badge/alpha-C2551C) |
 | | **[Tally](https://github.com/brightforge-tech/tally)** | Point of sale and stock control for small retail and trade counters — scan to invoice, credit accounts, returns and a full stock ledger. Runs on low-cost PHP hosting or Docker. | ![v1.0](https://img.shields.io/badge/v1.0-35B2BE) |
-| | **Practice management** | Appointments, patients, billing and receipts for small clinics and medical practices. | ![coming soon](https://img.shields.io/badge/coming%20soon-6E7A80) |
+| | **[Hearth](https://github.com/brightforge-tech/hearth)** | Practice management for small clinics — patients, appointments, visit notes, billing, expenses, an audit log and safe online booking. Self-hosted on Node and Postgres. | ![alpha](https://img.shields.io/badge/alpha-C2551C) |
 | | **[Anvil](https://github.com/brightforge-tech/anvil)** | A website, online shop and in-store point of sale in one PHP install — page builder, products, orders, POS, stock and reports on ordinary shared hosting. | ![beta](https://img.shields.io/badge/beta-35B2BE) |
 
 ⭐ Star or watch a repo to follow along — and if a project helps you,
