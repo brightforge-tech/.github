@@ -54,7 +54,7 @@ built in the open, free to use, and backed by the same team.
 | | Project | What it is | Status |
 |:-:|---|---|---|
 | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/exa-logo-dark.png"><img src="assets/exa-logo.png" width="48" alt="Exa"></picture> | **[Exa the Executive Assistant](https://github.com/brightforge-tech/exa)** | An AI executive assistant that lives on your Android phone — messages, email, calendar, tasks and a daily briefing, with every action approved and logged. Works with cloud, local or on-device AI. | ![alpha](https://img.shields.io/badge/alpha-C2551C) |
-| | **Point of sale & inventory** | Scan-to-invoice counter sales, stock control and customer accounts for small retail and trade counters. Runs on low-cost hosting. | ![coming soon](https://img.shields.io/badge/coming%20soon-6E7A80) |
+| | **[Tally](https://github.com/brightforge-tech/tally)** | Point of sale and stock control for small retail and trade counters — scan to invoice, credit accounts, returns and a full stock ledger. Runs on low-cost PHP hosting or Docker. | ![v1.0](https://img.shields.io/badge/v1.0-35B2BE) |
 | | **Practice management** | Appointments, patients, billing and receipts for small clinics and medical practices. | ![coming soon](https://img.shields.io/badge/coming%20soon-6E7A80) |
 | | **Website & shop builder** | A website, online shop and in-store POS in one simple install. | ![coming soon](https://img.shields.io/badge/coming%20soon-6E7A80) |
 
